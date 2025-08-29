@@ -1,11 +1,10 @@
 #Que esta sucediendo aqui?
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
+Document as you go!
 
 ---
 
-## bienvenidos a mi cueva antisocial de primer semestre
+## Bienvenidos a mi cueva antisocial de primer semestre
 
 
 Esa persona que aparece media muerta en la foto soy yo.
